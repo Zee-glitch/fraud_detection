@@ -10,4 +10,7 @@ def model2():
     print("adding code for ML Model2")
 
 def model3():
-    print("adding code for ML Model3")  
+    print("adding code for ML Model3") 
+
+def model4():
+    print("adding code for ML Model4") 
